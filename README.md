@@ -14,10 +14,13 @@ Projected Costs for Sustainable Water Management in 2030: Used to estimate futur
 - **Aqueduct 4.0**: A dataset providing long-term, chronic trends in water-related risks (1979-2019).
 - **Projected Costs for Sustainable Water Management in 2030**: Used to estimate future costs needed to manage water sustainability effectively.
 
-## Directory Structure
+## Repository Structure
 
 ```
 ├── data/                               # Directory for storing datasets and input files
+│   ├── Achieving_Abundance_Countries.xlsx
+│   ├── Aqueduct40_baseline_annual_y2023m07d05.csv
+│   └── Aqueduct40_README.xlsx
 ├── renv/                               # Virtual environment folder created with renv
 ├── README.md                           # Project README file
 ├── renv.lock                           # Lock file for environment dependencies
