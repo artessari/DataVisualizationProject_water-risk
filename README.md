@@ -49,13 +49,8 @@ cd DataVisualizationProject_water-risk
 
 3. **Set Up the R Environment**: Use the `renv` package to recreate the project's R environment. Run the following commands in R:
 ```
-<<<<<<< HEAD
 install.packages("renv")    # Install renv if you haven't already
 renv::restore()             # Restore the R environment from the lock file
-=======
-install.packages("renv")  # Install renv if you haven't already
-renv::restore()            # Restore the R environment from the lock file
->>>>>>> origin/main
 ```
 
 4. **Open the RStudio Project**: Open the project in RStudio by double-clicking on the Final `Project.Rproj` file. This will load the project settings and associated files.
