@@ -93,10 +93,6 @@ renv::restore()             # Restore the R environment from the lock file
 
 ## Visualizations
 
-The following visualizations were created during the project:
-
-## Visualizations
-
 The following visualizations were created to explore global water risks in detail:
 
 - **Global Overview of Water Risks**: This visualization provides a geographic representation of water risks across the globe. It highlights areas with the highest and lowest water risk scores, offering a clear view of regional disparities. Hotspots such as parts of Africa, South Asia, and Latin America emerge as regions with the most severe water risks, while more developed areas show relatively lower risks.
